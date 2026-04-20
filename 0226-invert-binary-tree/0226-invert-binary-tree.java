@@ -25,13 +25,13 @@ class Solution {
             TreeNode cur = nodes.pop();
             TreeNode temp = null;
             if (cur.left != null) {
-                temp = cur.left;
                 nodes.push(cur.left);
             }
             if (cur.right != null) {
                 nodes.push(cur.right);
             }
-
+            
+            temp = cur.left;
             cur.left = cur.right;
             cur.right = temp;
         }
