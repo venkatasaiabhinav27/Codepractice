@@ -71,6 +71,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/venkatasaiabhinav27/Codepractice/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/venkatasaiabhinav27/Codepractice/tree/master/0704-binary-search) |
 ## Matrix
 |  |
@@ -88,4 +89,8 @@
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/venkatasaiabhinav27/Codepractice/tree/master/0232-implement-queue-using-stacks) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/venkatasaiabhinav27/Codepractice/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
