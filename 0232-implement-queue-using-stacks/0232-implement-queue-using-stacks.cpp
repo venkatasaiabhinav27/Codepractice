@@ -11,7 +11,7 @@ public:
     }
     
     int pop() {
-        if (output.empty() && !input.empty()) {
+        if (output.size() == 0 && input.size() != 0) {
             while (input.size() != 0) {
                 output.push(input.top());
                 input.pop();
