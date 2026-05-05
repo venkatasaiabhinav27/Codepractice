@@ -17,8 +17,6 @@ public:
             end= end->next;
             if (end != nullptr) {
                 mid = mid->next;
-            }
-            if (end != nullptr) {
                 end = end->next;
             }
         }
