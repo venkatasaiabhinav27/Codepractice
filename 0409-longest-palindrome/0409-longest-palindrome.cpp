@@ -11,7 +11,7 @@ public:
         for(auto it= pal.begin(); it!= pal.end(); it++) {
             if (it->second%2 == 0) {
                 longest+=it->second;
-            } else if (it->second/2 >= 1) {
+            } else {
                 longest+=it->second-1;
             }
         }
