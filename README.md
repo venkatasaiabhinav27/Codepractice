@@ -58,22 +58,26 @@
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/venkatasaiabhinav27/Codepractice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/venkatasaiabhinav27/Codepractice/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/venkatasaiabhinav27/Codepractice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/venkatasaiabhinav27/Codepractice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/venkatasaiabhinav27/Codepractice/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/venkatasaiabhinav27/Codepractice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0733-flood-fill](https://github.com/venkatasaiabhinav27/Codepractice/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/venkatasaiabhinav27/Codepractice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/venkatasaiabhinav27/Codepractice/tree/master/0226-invert-binary-tree) |
 | [0733-flood-fill](https://github.com/venkatasaiabhinav27/Codepractice/tree/master/0733-flood-fill) |
 ## Binary Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/venkatasaiabhinav27/Codepractice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/venkatasaiabhinav27/Codepractice/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/venkatasaiabhinav27/Codepractice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Sorting
